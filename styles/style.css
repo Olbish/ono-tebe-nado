@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 91px 24px 93px;
+  padding: 89px 24px 93px;
 }
 
 .header__menu {
@@ -31,7 +31,9 @@
 
 .header__logo {
   display: block;
-  width: 137px;
+  width: 140px;
+  padding-right: 4px;
+  padding-top: 3px;
 }
 
 .header__address {
@@ -281,7 +283,7 @@
   align-items: start;
   font-weight: 400;
   font-size: 18px;
-  padding: 184px 50px 88px;
+  padding: 189px 50px 88px;
 }
 
 .footer_adress {
