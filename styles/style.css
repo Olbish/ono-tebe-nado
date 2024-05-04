@@ -34,7 +34,6 @@
   width: 137px;
 }
 
-
 .header__address {
   display: flex;
   align-items: flex-start;
@@ -81,7 +80,7 @@
   line-height: 100%;
   text-transform: uppercase;
   color: #FFF;
-  }
+}
 
 .aligned-text,
 .aligned-text_center,
@@ -190,7 +189,6 @@
 .card_type_film, 
 .card_type_book,
 .card_type_picture {
-  background-color: #131313;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
