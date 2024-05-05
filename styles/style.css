@@ -22,6 +22,7 @@
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0.01em;
+  text-underline-offset: 4px;
 }
 
 .header__links-list-item_no-bullit {
@@ -45,6 +46,10 @@
   font-size: 18px;
   line-height: 24px;
   margin: 5px 25px 2px 184px;
+}
+
+.header__address-link {
+  text-underline-offset: 4px;
 }
 
 .cover {
@@ -168,8 +173,9 @@
 .lots__look-more-link {
   font-weight: 400;
   font-size: 20px;
-  line-height: normal;
+  line-height: 23px;
   padding-left: 40px;
+  text-underline-offset: 4px;
 }
 
 .card {
@@ -218,6 +224,7 @@
   line-height: 26px;
   text-decoration: underline;
   text-transform: uppercase;
+  text-underline-offset: 4px;
 }
 
 .card__text {
@@ -242,8 +249,8 @@
   height: 240px;
   border-radius: 50%;
   background-color: black;
-  margin-top: 25px;
-  margin-left: 48px;
+  margin-top: 27px;
+  margin-left: 47px;
 }
 
 .about__logo-image {
@@ -283,7 +290,7 @@
   align-items: start;
   font-weight: 400;
   font-size: 18px;
-  padding: 189px 50px 88px;
+  padding: 187px 50px 88px;
 }
 
 .footer_adress {
@@ -293,6 +300,7 @@
   font-style: normal;
   line-height: 24px;
   margin-right: 100px;
+  text-underline-offset: 4px;
 }
 .footer__menu-list {
   text-align: center;
@@ -301,6 +309,7 @@
 
 .footer__menu-link {
   line-height: 21px;
+  text-underline-offset: 4px;
 }
 
 .footer__social-list {
